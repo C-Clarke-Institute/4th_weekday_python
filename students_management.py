@@ -27,8 +27,7 @@
 # age : 20
 # marks : 67
 # -----------------
-from Day_5.presentatation_order import student
-from day_8.student_result_system import grade
+
 
 # 3 Search Student
 # ask user to enter student's name
